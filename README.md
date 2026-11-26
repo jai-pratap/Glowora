@@ -1,4 +1,4 @@
-# DermaBloom — Skin & Hair Wellness Website
+# Glowora— Skin & Hair Wellness Website
 
 A responsive, multi-page student project built with **HTML, CSS and vanilla JavaScript only**.
 
